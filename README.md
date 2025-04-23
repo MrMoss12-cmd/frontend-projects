@@ -23,4 +23,3 @@
 <img src="https://i.ibb.co/VWfM2RDg/screen1.png" alt="Fine Dining" width="300" height="200"/>
 
 [![Ver Código](https://img.shields.io/badge/Ver%20Código-blue?style=for-the-badge)](https://github.com/MrMoss12-cmd/restaurant-ui)
-[![Ver Página](https://img.shields.io/badge/Ver%20Página-green?style=for-the-badge)](https://github.com/MrMoss12-cmd/restaurant-ui)
