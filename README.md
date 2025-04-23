@@ -13,7 +13,7 @@
 ![Church App](https://i.ibb.co/jZqWcvbc/church.jpg)
 
 [![Ver Código](https://img.shields.io/badge/Ver%20Código-blue?style=for-the-badge)](https://github.com/MrMoss12-cmd/church-ui/tree/main)
-[![Ver Página](https://img.shields.io/badge/Ver%20Página-green?style=for-the-badge)](https://github.com/MrMoss12-cmd/church-ui/tree/main)
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-green?style=for-the-badge)](https://espiritudeadoracion2.netlify.app/)
 
 ---
 
